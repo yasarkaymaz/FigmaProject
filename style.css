@@ -32,7 +32,7 @@ header svg{
 }
 
 header{
-    background: #F5F5F5;
+    background: ;
     display: flex;
     height: 60px;
     align-items: center;
@@ -101,7 +101,7 @@ nav h1{
 aside{
     width: 254px;
     height: 356px;
-    background: #FFF;
+    background: #d4d7db2c;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     flex-direction: column;
@@ -132,7 +132,7 @@ aside div a{
 main{
     width: 70%;
     padding: 20px;
-    background: #FFF;
+    background: #d4d7db2c;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     margin-bottom: 40px;
 }
@@ -253,7 +253,7 @@ hr{
  .news{
     width: 70%;
   
-    background: #FFF;
+    background: #d4d7db2c;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     margin-bottom: 100px;
     padding: 20px;
@@ -293,5 +293,5 @@ hr{
 }
 
 #topnews{
-   
+    ;
 }
